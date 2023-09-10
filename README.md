@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ajay5847
-- 👀 I’m interested in programming
+- 👋 Hi, I’m M Ajay Kumar
+- 👀 I’m a Passioante Programmer, my passio lies in Data Structures and Algorithms.
 - 🌱 I’m a Full Stack Web Developer with expertise in MERN Stack
 
 <!---
