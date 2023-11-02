@@ -1,5 +1,6 @@
 - 👋 Hi, I’m M Ajay Kumar
 - 👀 I’m a Passioante Programmer.
+- Knight on Leetcode with 1877 contest rating.
 - 🌱 I’m a Full Stack Web Developer with expertise in MERN Stack
 
 <!---
